@@ -52,9 +52,6 @@ SELECT MAX(mySum) FROM temporaryTable)
 ORDER BY mySum DESC;
 
 /*
- * Name: Manushi Parajuli
-*/ 
-/*
 For each state (Geo_STUSAB), list the counties where the number of 
 Professional School Degrees (PSD) (B15003024) is less than the average number of
 PSD *for that state*.  Show Geo_QName and the number of PSD for that county.
