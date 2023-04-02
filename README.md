@@ -1,4 +1,5 @@
-# database
+# PostgreSQL to filter the data 
+Examines the highest level of education attained by individuals over 25 across the United States.
 1. Queries extract information on the number of individuals in three different Texas counties who have completed different levels of education.
 2. Query to find the county with the highest proportion of individuals 25 or over who have completed a doctorate degree.
 3. Query to calculates the total number of people (age 25 and over) in the United States who have not attained education past the 2nd grade.
